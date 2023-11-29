@@ -24,5 +24,6 @@ En este README se explicara que contiene caada portafolio.
 ## Archivos de otros modulos
 
 ### NLP
+* Archivo de Evidencias NLP
 
 ### Deep Learning
