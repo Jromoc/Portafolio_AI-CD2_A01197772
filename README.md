@@ -1,5 +1,5 @@
 # Portafolio_AI-CD2_A01197772
-Este Link contendra el repositorio donde se subieron los documentos del reto: https://github.com/EliasGarzaV/StudentVisionClassIA 
+Este Link contendra el repositorio donde se subieron los documentos del reto: [https://github.com/EliasGarzaV/StudentVisionClassIA ](https://github.com/DiegoElian02/StudentVisionClassIA)
 
 En este README se explicara que contiene caada portafolio.
 
